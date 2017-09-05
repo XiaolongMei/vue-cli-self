@@ -1,0 +1,94 @@
+@media (max-width: 320px) {
+    #excel {
+        width: 300px;
+        height: 96px;
+    }
+
+    #map {
+        width: 310px;
+        height: 217px;
+    }
+}
+
+@media (min-width: 321px) and (max-width: 359px) {
+    #excel {
+        width: 374px;
+        height: 119px;
+    }
+
+    #map {
+        width: 310px;
+        height: 217px;
+    }
+}
+
+@media (width: 360px) {
+    #excel {
+        width: 300px;
+        height: 96px;
+    }
+
+    #map {
+        width: 330px;
+        height: 215px;
+    }
+}
+
+@media (min-width: 361px) and (max-width: 374px) {
+    #excel {
+        width: 334px;
+        height: 119px;
+    }
+
+    #map {
+        width: 330px;
+        height: 225px;
+    }
+}
+
+@media (width: 375px) {
+    #excel {
+        width: 300px;
+        height: 96px;
+    }
+
+    #map {
+        width: 365px;
+        height: 240px;
+    }
+}
+@media (min-width: 376px) and (max-width: 413px) {
+    #excel {
+        width: 344px;
+        height: 119px;
+    }
+
+    #map {
+        width: 345px;
+        height: 242px;
+    }
+}
+
+@media (min-width: 414px) and (max-width: 639px) {
+    #excel {
+        width: 374px;
+        height: 119px;
+    }
+
+    #map {
+        width: 394px;
+        height: 267px;
+    }
+}
+
+@media (min-width: 640px) {
+    #excel {
+        width: 600px;
+        height: 200px;
+    }
+
+    #map {
+        width: 600px;
+        height: 406px;
+    }
+}

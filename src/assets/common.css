@@ -1,0 +1,36 @@
+html,body,h1,h2,h3,h4,h5,h6,header,section,footer,p,span,a,ul,ol,li,table,tbody,tr,td,hr,img,button,video,dl,dd,dt{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul,ol{
+    list-style: none;
+}
+
+html,input {
+    font-family: 'PingFangSC-Regular';
+    background-color: transparent;
+}
+
+body{
+    -webkit-user-select:none;
+    font-size: 0.24rem;
+}
+
+::-webkit-scrollbar {
+    display:none
+}
+
+.mask{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.8);
+    z-index: 501;
+}
